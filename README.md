@@ -44,5 +44,39 @@ To run the project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ParkEasy.git
+   git clone https://github.com/hdzambrano05/ParkEasyFram.git
    cd ParkEasy
+   
+2. **Navigate to the backend directory:**
+   ```bash
+   cd backend
+   
+3. **Install dependencies::**
+   ```bash
+   npm install
+   
+4. **Install nodemon:**
+   ```bash
+   npm install nodemon
+   
+5. **Run the backend server:**
+   ```bash
+    nodemon
+   
+**Set up the frontend:**
+
+1. **Navigate to the frontend directory:**
+   ```bash
+   cd frontend
+   
+3. **Install dependencies::**
+   ```bash
+   npm install
+   
+5. **Run the frontend server:**
+   ```bash
+    ng serve
+   
+
+
+
