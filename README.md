@@ -26,7 +26,6 @@ ParkEasy is a web application designed to simplify parking space management. Bui
 - **Frontend:** Angular, Bootstrap 5
 - **Backend:** Node.js, Express, Sequelize
 - **Database:** PostgreSQL
-- **Authentication:** JWT (JSON Web Tokens)
 - **Styling:** Bootstrap Icons
 
 ## Getting Started 🚀
